@@ -26,7 +26,8 @@
                 "s3-object-lambda:Get*",
                 "s3-object-lambda:List*",
                 "s3:Get*",
-                "s3:List*"
+                "s3:List*",
+                "ssm:*"
             ],
             "Resource": "*"
         }
