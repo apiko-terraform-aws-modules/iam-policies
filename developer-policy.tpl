@@ -6,6 +6,7 @@
             "Effect": "Allow",
             "Action": [
                 "acm:ListCertificates",
+                "acm:DescribeCertificate",
                 "cloudfront:DescribeFunction",
                 "cloudfront:Get*",
                 "cloudfront:List*",
